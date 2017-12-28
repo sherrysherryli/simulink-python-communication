@@ -1,3 +1,4 @@
 # simulink-python-communication
-communication between python and matlab/simulink
-using TCP
+Communication between python and matlab/simulink using tcp  
+
+Run m file fisrt
